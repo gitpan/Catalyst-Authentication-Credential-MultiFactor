@@ -1,0 +1,6 @@
+Revision history for Perl extension Catalyst::Authentication::Credential::MultiFactor.
+
+1.0  Thu Feb 23 18:13:32 2012
+	- original version; created by h2xs 1.23 with options
+		-AX Catalyst::Authentication::Credential::MultiFactor
+

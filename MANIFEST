@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Catalyst-Authentication-Credential-MultiFactor.t
+lib/Catalyst/Authentication/Credential/MultiFactor.pm
